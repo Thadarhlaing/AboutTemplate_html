@@ -1,0 +1,158 @@
+.call{
+    background-color:rgb(8, 161, 231);
+    width:80%;
+}
+.link{
+    background-color:rgb(8, 161, 231);
+}
+
+.head{
+    background-color:skyblue;
+}
+
+.gym{
+    position:relative;
+    left:120px;
+}
+.img{
+    width:100%;
+    height:400px;
+}
+.above{
+    background-color:rgb(8, 161, 231); 
+    color:white;
+    width:13%;
+    text-align:center;
+    padding:10px;
+    font-size:25px;
+    position:absolute;
+    left:300px;
+    top:500px;
+}
+.two{
+    background-color:rgb(8, 161, 231);
+    color:white;
+    width:60%;
+}
+.font{
+    font-size:40px;
+}
+.font1{
+    color:skyblue;
+    font-size:20px;
+}
+.color{
+    background-color:rgb(8, 161, 231);  
+}
+.circle{
+    width:100%;
+    height:100px;
+   border-radius:200px;
+}
+.center{
+    background-color:skyblue;
+    width:32%;
+}
+.center1{
+    background-color:whitesmoke;
+    width:32%;
+}
+.vl{
+    border-left:1px solid white;
+}
+.vl1{
+    border-left:1px solid grey;
+}
+.qua{
+    color:rgb(8, 161, 231);
+}
+.size{
+    font-size:15px;
+}
+.big{
+    text-align:center;
+    color:skyblue;
+    font-size:30px;
+}
+.dark {
+    opacity:0.5;
+}
+.sky{
+    background-color:rgb(8, 161, 231); 
+}
+.join{
+    background-color:rgb(8, 161, 231); 
+    width:80%;
+}
+.margin{
+    margin-left:80px;
+}
+.sed{
+    font-size: 22px;
+}
+.lor{
+    font-size:15px; 
+}
+.primary{
+    background-color: white;
+    color:skyblue;
+}
+.dark{
+    background-color:skyblue;
+    color:white;
+}
+.log{
+    position:relative;
+    left:50px;
+    
+}
+.view{
+    position:relative;
+    left:200px;
+    top:-60px;
+}
+.grey{
+    color:grey;
+}
+.blue{
+    color:skyblue;
+}
+.ear{
+    background-color: skyblue;
+    border-radius:100px ;
+    width:60px;
+}
+.gall{
+    color:rgb(8, 161, 231);
+    font-size: 30px;
+}
+.gallery{
+    background-color:whitesmoke;
+}
+.width img{
+    width:230px;
+}
+.pM{
+    margin-left:150px;
+}
+.small img{
+    width:150px;
+}
+
+.icon{
+    float:right;
+    position:relative;
+    top:-40px;
+}
+.footer{
+    background-color:skyblue;
+}
+.assign{
+    background-color:rgb(8, 161, 231); 
+}
+.foot{
+    background-color:skyblue;
+}
+.temp{
+    margin-left:170px;
+}
